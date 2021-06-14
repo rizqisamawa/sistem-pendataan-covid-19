@@ -1,4 +1,4 @@
-# [ TK ] Sistem Pendataan Covid-19
+# [ KKN ] Sistem Pendataan Covid-19
 
 #### Langkah - Langkah Menjalakan Project
 
