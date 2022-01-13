@@ -10,6 +10,6 @@
 
 ## Noted Auth
 > Username : admin <br>
-> Password : admin
+> Password  : admin
 
 Pencipta : Muhammad Rizqi Samawa
