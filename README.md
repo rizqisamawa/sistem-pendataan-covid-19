@@ -8,7 +8,7 @@
 * Ketikan di browser kalian `http://127.0.0.1:8000/`
 * Tadaaaaa......
 
-## Noted Auth
+**Noted Auth**
 > Username : admin <br>
 > Password  : admin
 
