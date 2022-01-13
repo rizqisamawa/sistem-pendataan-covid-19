@@ -1,4 +1,4 @@
-# [ KKN ] Sistem Pendataan Covid-19
+# Sistem Pendataan Covid-19
 
 #### Langkah - Langkah Menjalakan Project
 
@@ -7,5 +7,9 @@
 * Jalankan `php artisan serve`
 * Ketikan di browser kalian `http://127.0.0.1:8000/`
 * Tadaaaaa......
+
+## Noted Auth
+> Username : admin <br>
+> Password : admin
 
 Pencipta : Muhammad Rizqi Samawa
